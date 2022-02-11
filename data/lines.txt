@@ -1,0 +1,8 @@
+name: rahul 
+qualification: btech in IT
+technical skill set: java, python, spark, sql, gcp, linux, 
+Tools: git, intellij, maven, pycharm
+experience in clairvoyant: learning process is very good 
+working: presently working in rosewall project
+strengths: Quick learner, Hard working 
+hobbies: playing cricket, coding, drawing

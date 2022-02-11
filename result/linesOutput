@@ -1,0 +1,61 @@
+Number of lines --> 8
+----------------------------------------
+Number of words in line1: 2
+name: --> middle letter --> m
+rahul --> middle letter --> h
+----------------------------------------
+Number of words in line2: 4
+qualification: --> middle letter --> ic
+btech --> middle letter --> e
+in --> middle letter --> in
+IT --> middle letter --> IT
+----------------------------------------
+Number of words in line3: 9
+technical --> middle letter --> n
+skill --> middle letter --> i
+set: --> middle letter --> et
+java, --> middle letter --> v
+python, --> middle letter --> h
+spark, --> middle letter --> ar
+sql, --> middle letter --> ql
+gcp, --> middle letter --> cp
+linux, --> middle letter --> nu
+----------------------------------------
+Number of words in line4: 5
+Tools: --> middle letter --> ol
+git, --> middle letter --> it
+intellij, --> middle letter --> l
+maven, --> middle letter --> ve
+pycharm --> middle letter --> h
+----------------------------------------
+Number of words in line5: 8
+experience --> middle letter --> ri
+in --> middle letter --> in
+clairvoyant: --> middle letter --> vo
+learning --> middle letter --> rn
+process --> middle letter --> c
+is --> middle letter --> is
+very --> middle letter --> er
+good --> middle letter --> oo
+----------------------------------------
+Number of words in line6: 6
+working: --> middle letter --> ki
+presently --> middle letter --> e
+working --> middle letter --> k
+in --> middle letter --> in
+rosewall --> middle letter --> ew
+project --> middle letter --> j
+----------------------------------------
+Number of words in line7: 5
+strengths: --> middle letter --> ng
+Quick --> middle letter --> i
+learner, --> middle letter --> rn
+Hard --> middle letter --> ar
+working --> middle letter --> k
+----------------------------------------
+Number of words in line8: 5
+hobbies: --> middle letter --> bi
+playing --> middle letter --> y
+cricket, --> middle letter --> ck
+coding, --> middle letter --> i
+drawing --> middle letter --> w
